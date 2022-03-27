@@ -1,2 +1,2 @@
 # GICU-3-Terminal
-GICU-3 Interface terminal design
+GICU-3 Interface console design
